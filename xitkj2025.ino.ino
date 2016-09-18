@@ -3,7 +3,7 @@
   Turns on an LED on for one second, then off for one second, repeatedly.
 
   Most Arduinos have an on-board LED you can control. On the Uno and
-  Leonardo, it is attached to digital pin 5. If you're unsure what
+  Leonardo, it is attached to digital pin 2. If you're unsure what
   pin the on-board LED is connected to on your Arduino model, check
   the documentation at http://www.arduino.cc
 
